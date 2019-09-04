@@ -129,6 +129,3 @@ class Childpeople < People
 end
 
 Childpeople.greet
-   
-   
-   
