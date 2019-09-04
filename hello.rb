@@ -84,11 +84,11 @@ end
 # 課題1,2
 class People
   def initialize
-    "peopleのインスタンスが作られました"
+   p "peopleのインスタンスが作られました"
   end
 end
 
-p people = People.new
+people = People.new
 
 #課題3
 class People
